@@ -1,0 +1,22 @@
+{
+  "name": "Bus Tracker CDE",
+  "short_name": "BusTracker",
+  "description": "Seguimiento de buses en tiempo real - Ciudad del Este",
+  "start_url": "/bus-tracker-cde/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
