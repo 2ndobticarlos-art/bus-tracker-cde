@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bus-tracker-cde-v1';
+const CACHE_NAME = 'bus-tracker-cde-v2';
 const urlsToCache = [
   '/bus-tracker-cde/',
   '/bus-tracker-cde/index.html'
